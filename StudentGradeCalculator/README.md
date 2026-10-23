@@ -20,4 +20,4 @@ student information and calculate grades.
 4. Run the command:
 python main.py
 ## Author
-Student Name
+Said Mammedov
